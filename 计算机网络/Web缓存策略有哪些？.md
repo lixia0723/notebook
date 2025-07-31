@@ -6,6 +6,8 @@
 
 策略缓存
 
+![](https://github.com/lixia0723/notebook/blob/master/assets/images/Web%E7%BC%93%E5%AD%98%E7%AD%96%E7%95%A5.jpg)
+
 ![](C:/Users/35967/Desktop/note/assets/images/Web%E7%BC%93%E5%AD%98%E7%AD%96%E7%95%A5.jpg)
 
 ### 1. 对浏览器的缓存机制的理解
@@ -190,7 +192,7 @@ Last-Modified的时间单位是秒，如果某个文件在1秒内改变了多次
 
 
 
-![img](https://static.ecool.fun//article/e97ed6fc-a8d2-4ae0-a361-fbe1349c47b0.awebp)
+![](https://static.ecool.fun//article/e97ed6fc-a8d2-4ae0-a361-fbe1349c47b0.awebp)
 
 ### 常见考点
 
