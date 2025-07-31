@@ -4,7 +4,7 @@ const REJECTED = 'rejected'
 class MyPromise{
     constructor(executor){
         //状态
-        this.state = PENDING
+        this.state = PENDINGclear
         //成功的值
         this.value = undefined 
         //失败的值
