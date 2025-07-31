@@ -190,7 +190,7 @@ Last-Modified的时间单位是秒，如果某个文件在1秒内改变了多次
 
 通常在处理这类资源时，给它们的 Cache-Control 配置一个很大的 `max-age=31536000` (一年)，这样浏览器之后请求相同的 URL 会命中强制缓存。而为了解决更新的问题，就需要在文件名(或者路径)中添加 hash， 版本号等动态字符，之后更改动态字符，从而达到更改引用 URL 的目的，让之前的强制缓存失效 (其实并未立即失效，只是不再使用了而已)。 在线提供的类库 (如 `jquery-3.3.1.min.js`, `lodash.min.js` 等) 均采用这个模式。
 
-
+![](https://github.com/lixia0723/notebook/blob/master/assets/images/%E7%BC%93%E5%AD%98.awebp)
 
 ![](https://static.ecool.fun//article/e97ed6fc-a8d2-4ae0-a361-fbe1349c47b0.awebp)
 
